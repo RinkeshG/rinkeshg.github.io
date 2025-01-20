@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Welcome to My Website
+
+Here is some content you want to display on your main page.
