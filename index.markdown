@@ -6,6 +6,15 @@ layout: default
 title: Home
 
 ---
-# Welcome to Rinkesh Gorasia's Website
+# Hello World 👋  
 
-Here is some content you want to display on your main page.
+I'm **Rinkesh Gorasia**, and welcome to my little corner on the Internet.  
+
+Some titles I associate with — **founder**, **author**, **researcher**, **speaker**, and **batman**.  
+
+Exploring computers from the age of 12, I delved into the world of technology through **MS-DOS**, igniting my passion for the command line. As I explored various tech stacks, I became enamored with the idea of using technology to solve global challenges.  
+
+I'm in the arena trying stuff. Some will work, some won't, but I'm always learning. *IYKYK*  
+
+**Twitter** is my digital playground.  
+For more in-depth conversations, shoot me an email at: ✉️ [0xpriyanshu@gmail.com](mailto:0xpriyanshu@gmail.com)
