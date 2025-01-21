@@ -35,10 +35,10 @@ plugins:
   - jekyll-feed
 
 menu:
-  - title: Home
-    url: /
   - title: Blog
     url: /blog/
+  - title: Reading List
+    url: /readinglist/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
