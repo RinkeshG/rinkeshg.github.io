@@ -4,7 +4,7 @@ title: Reading List
 permalink: /readinglist/
 ---
 <h1>My Reading List</h1>
-<p>Here is a collection of my favorite books and articles!</p>
+<p>Here is a collection of my favorite books and articles</p>
 
 ### Note-Taking is Time Travel
 - Author: [David Perell](https://perell.com/)
