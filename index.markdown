@@ -12,36 +12,35 @@ title: Home
 
 some more sample text about my work & me goes here.
 
----
 
-### Building
-
-* some sample text goes here about me and my work.  
-* some sample text goes here about me and my work.  
-* some sample text goes here about me and my work.  
-
-### Projects
+<u> ### Building </u>
 
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 
-### Writings
+<u> ### Projects </u>
 
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 
----
+<u> ### Writings </u>
 
-### Now
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+
+
+
+<u> ### Now </u>
 
 *some sample text goes here about me and my work.*
 
 some more sample text about my work & me goes here.
 
----
 
-### Connect
+
+<u> ### Connect </u>
 
 some more sample text about my work & me goes here.
