@@ -34,11 +34,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-menu:
-  - title: Blog
-    url: /blog/
-  - title: Reading List
-    url: /readinglist/
+nav:
+  - name: About
+    link: /about/
+  - name: Blog
+    link: /blog/
+  - name: Reading List
+    link: /readinglist/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

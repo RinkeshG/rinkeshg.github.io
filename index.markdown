@@ -13,19 +13,19 @@ title: Home
 some more sample text about my work & me goes here.
 
 
-<u> ### Building </u>
+### <u> Building </u>
 
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 
-<u> ### Projects </u>
+### <u> Projects </u>
 
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
 
-<u> ### Writings </u>
+### <u> Writings </u>
 
 * some sample text goes here about me and my work.  
 * some sample text goes here about me and my work.  
@@ -33,7 +33,7 @@ some more sample text about my work & me goes here.
 
 
 
-<u> ### Now </u>
+### <u> Now </u>
 
 *some sample text goes here about me and my work.*
 
@@ -41,6 +41,6 @@ some more sample text about my work & me goes here.
 
 
 
-<u> ### Connect </u>
+### <u> Connect </u>
 
 some more sample text about my work & me goes here.
