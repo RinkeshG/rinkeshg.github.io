@@ -6,10 +6,42 @@ layout: default
 title: Home
 
 ---
-# Hello World 👋  
+# Rinkesh Gorasia
 
-I'm **Rinkesh**, an entrepreneur and a builder at heart. I love building and scaling new, interesting products, and currently, I'm delving into all things **AI**.
+*some sample text goes here about me and my work.*
 
-I am a **2x founder** with over **7 years of experience** in building products, companies, and communities.
+some more sample text about my work & me goes here.
 
-Outside of work, I nerd out on **sports** and **tech**. I enjoy exploring new places and love reading and sharing whatever I'm currently reading.
+---
+
+### Building
+
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+
+### Projects
+
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+
+### Writings
+
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+* some sample text goes here about me and my work.  
+
+---
+
+### Now
+
+*some sample text goes here about me and my work.*
+
+some more sample text about my work & me goes here.
+
+---
+
+### Connect
+
+some more sample text about my work & me goes here.
