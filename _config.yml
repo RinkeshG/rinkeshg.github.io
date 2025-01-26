@@ -41,6 +41,8 @@ nav:
     link: /blog/
   - name: Reading List
     link: /readinglist/
+  - name: Board Games
+    link: /boardgames/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
